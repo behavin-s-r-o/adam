@@ -1,0 +1,13 @@
+package com.behavin.adam.Adam;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AdamApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AdamApplication.class, args);
+	}
+
+}
